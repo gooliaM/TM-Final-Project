@@ -1,0 +1,72 @@
+ID Year,Year,Admissions Total,Applicants Total,University,ID University,Slug University,Acceptance Rate
+2022,2022,859989,1509723,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5696336348
+2022,2022,485125,1014738,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.4780790707
+2022,2022,85,91,Herzing University-Atlanta,140340,herzing-university-atlanta,0.9340659341
+2022,2022,1119,1490,Cazenovia College,189848,cazenovia-college,0.7510067114
+2022,2022,1293,1354,Hilbert College,191621,hilbert-college,0.9549483013
+2022,2022,3219,3994,Willamette University,210401,willamette-university,0.8059589384
+2022,2022,241,709,Central Penn College,211477,central-penn-college,0.3399153738
+2022,2022,2217,2319,University of Wisconsin-Superior,240426,university-of-wisconsin-superior,0.9560155239
+2021,2021,779491,1376856,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5661383616
+2021,2021,464696,944985,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.4917496045
+2021,2021,69,73,Herzing University-Atlanta,140340,herzing-university-atlanta,0.9452054795
+2021,2021,1146,1695,Cazenovia College,189848,cazenovia-college,0.6761061947
+2021,2021,969,1046,Hilbert College,191621,hilbert-college,0.9263862333
+2021,2021,2930,3680,Willamette University,210401,willamette-university,0.7961956522
+2021,2021,219,247,Central Penn College,211477,central-penn-college,0.8866396761
+2021,2021,1376,1805,University of Wisconsin-Superior,240426,university-of-wisconsin-superior,0.7623268698
+2020,2020,778747,1373662,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5669131125
+2020,2020,457633,900047,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.5084545585
+2020,2020,86,93,Herzing University-Atlanta,140340,herzing-university-atlanta,0.9247311828
+2020,2020,1619,2243,Cazenovia College,189848,cazenovia-college,0.7218011592
+2020,2020,996,1086,Hilbert College,191621,hilbert-college,0.9171270718
+2020,2020,3215,4010,Willamette University,210401,willamette-university,0.8017456359
+2020,2020,227,274,Central Penn College,211477,central-penn-college,0.8284671533
+2020,2020,919,1067,University of Wisconsin-Superior,240426,university-of-wisconsin-superior,0.8612933458
+2019,2019,763491,1408071,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5422247884
+2019,2019,440620,920855,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.4784900989
+2019,2019,70,78,Herzing University-Atlanta,140340,herzing-university-atlanta,0.8974358974
+2019,2019,1921,2050,Cazenovia College,189848,cazenovia-college,0.9370731707
+2019,2019,1198,1294,Hilbert College,191621,hilbert-college,0.9258114374
+2019,2019,3095,3972,Willamette University,210401,willamette-university,0.779204431
+2019,2019,237,281,Central Penn College,211477,central-penn-college,0.8434163701
+2019,2019,956,1166,University of Wisconsin-Superior,240426,university-of-wisconsin-superior,0.819897084
+2018,2018,764336,1416761,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5394953701
+2018,2018,447277,919057,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.4866694884
+2018,2018,129,135,Herzing University-Atlanta,140340,herzing-university-atlanta,0.9555555556
+2018,2018,1247,1518,Cazenovia College,189848,cazenovia-college,0.8214756258
+2018,2018,998,1194,Hilbert College,191621,hilbert-college,0.8358458961
+2018,2018,3518,4206,Willamette University,210401,willamette-university,0.836424156
+2018,2018,202,279,Central Penn College,211477,central-penn-college,0.7240143369
+2018,2018,904,1165,University of Wisconsin-Superior,240426,university-of-wisconsin-superior,0.7759656652
+2017,2017,744004,1392123,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5344384081
+2017,2017,433477,892879,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.4854823554
+2017,2017,70,81,Herzing University-Atlanta,140340,herzing-university-atlanta,0.8641975309
+2017,2017,1665,1802,Cazenovia College,189848,cazenovia-college,0.9239733629
+2017,2017,1003,1156,Hilbert College,191621,hilbert-college,0.8676470588
+2017,2017,3995,4484,Willamette University,210401,willamette-university,0.8909455843
+2017,2017,344,436,Central Penn College,211477,central-penn-college,0.7889908257
+2017,2017,940,1234,University of Wisconsin-Superior,240426,university-of-wisconsin-superior,0.7617504052
+2016,2016,740574,1389447,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5329990996
+2016,2016,431711,890885,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.484586675
+2016,2016,122,127,Herzing University-Atlanta,140340,herzing-university-atlanta,0.9606299213
+2016,2016,1555,1730,Cazenovia College,189848,cazenovia-college,0.8988439306
+2016,2016,787,970,Hilbert College,191621,hilbert-college,0.8113402062
+2016,2016,4825,6181,Willamette University,210401,willamette-university,0.780618023
+2016,2016,542,550,Central Penn College,211477,central-penn-college,0.9854545455
+2016,2016,1032,1356,University of Wisconsin-Superior,240426,university-of-wisconsin-superior,0.7610619469
+2015,2015,706896,1319541,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5357135549
+2015,2015,409155,845975,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.483649044
+2015,2015,181,212,Herzing University-Atlanta,140340,herzing-university-atlanta,0.8537735849
+2015,2015,1880,2307,Cazenovia College,189848,cazenovia-college,0.81491114
+2015,2015,607,743,Hilbert College,191621,hilbert-college,0.8169582773
+2015,2015,4935,6332,Willamette University,210401,willamette-university,0.7793746052
+2015,2015,565,582,Central Penn College,211477,central-penn-college,0.970790378
+2015,2015,946,1006,University of Wisconsin-Superior,240426,university-of-wisconsin-superior,0.9403578529
+2014,2014,679586,1254146,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5418715205
+2014,2014,402412,808979,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.4974319482
+2014,2014,66,66,Herzing University-Atlanta,140340,herzing-university-atlanta,1
+2014,2014,1815,2382,Cazenovia College,189848,cazenovia-college,0.7619647355
+2014,2014,720,893,Hilbert College,191621,hilbert-college,0.8062709966
+2014,2014,4658,5729,Willamette University,210401,willamette-university,0.8130563798
+2014,2014,860,971,University of Wisconsin-Superior,240426,university-of-wisconsin-superior,0.885684861
